@@ -14,8 +14,7 @@
 `simplefactory`：实现了简单工厂模式
 
 `Fruit`抽象水果类，`Apple`和`banana`为具体的水果类，`SimpleFacotry`为简单工厂，使用静态方法创建各种水果。
-具体类图如下：
-![simplefactory](simplefactory.png =400x500)
+具体类图看`simplefactory.uml`
 
 ##### 工厂方法模式
 工厂方法模式是定义一个创建产品对象的工厂接口，将实际创建工作推迟到子类当中。核心工厂不在负责产品的创建。
@@ -23,6 +22,5 @@
 `methodfactory`：实现了工厂方法模式
 
 `Fruit`抽象水果类，`Apple`和`banana`为具体的水果类，`FruitFactory`为抽象工厂接口，`BananaFactory`和`AppleFactory`为具体工厂实现类
-具体类图如下：
-![methodfactory](methodfactory.png =400x500)
+具体类图如看`methodfactory.uml`
 
