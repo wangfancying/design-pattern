@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955092b7-21e4-45bc-9823-333133b49f6c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/design-pattern.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/methodfactory.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/methodfactory.uml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/simplefactory.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/simplefactory.uml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/Apple.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/AppleFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/Banana.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/BananaFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/Fruit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/FruitFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/methodfactory/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/simplefactory/Apple.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/simplefactory/Banana.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/simplefactory/Fruit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/simplefactory/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/factory-pattern/src/main/java/com/hui/wang/design/pattern/simplefactory/SimpleFactory.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/factory-pattern/README.md" afterPath="$PROJECT_DIR$/factory-pattern/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/factory-pattern/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/factory-pattern/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="647">
-                <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <first_editor relative-caret-position="620">
+                <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -323,12 +299,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543299268697</updated>
       <workItem from="1543299271533" duration="1411000" />
-      <workItem from="1543302405064" duration="8589000" />
+      <workItem from="1543302405064" duration="9581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10000000" />
+    <option name="totallyTimeSpent" value="10992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-389" width="2560" height="1440" extended-state="0" />
@@ -405,8 +381,8 @@
         <state relative-caret-position="81">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="false" />
+            <element signature="e#222#223#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -464,8 +440,8 @@
         <state relative-caret-position="297">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#247#248#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -491,8 +467,8 @@
         <state relative-caret-position="243">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#220#221#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -593,11 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factory-pattern/simplefactory.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factory-pattern/methodfactory.uml">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -695,11 +666,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/factory-pattern/simplefactory.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/factory-pattern/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="647">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <first_editor relative-caret-position="620">
+            <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
