@@ -24,5 +24,6 @@
 
 `Fruit`抽象水果类，`Apple`和`banana`为具体的水果类，`FruitFactory`为抽象工厂接口，`BananaFactory`和`AppleFactory`为具体工厂实现类
 具体类图如下：
+<img src="methodfactory.png" width="200" hegiht="313" align=center />
 ![methodfactory](methodfactory.png=400x500)
 
