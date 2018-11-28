@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="factory-pattern" />
+        <module name="strategy-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="factory-pattern" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="factory-pattern" target="1.8" />
+      <module name="strategy-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

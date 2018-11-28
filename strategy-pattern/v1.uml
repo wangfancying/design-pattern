@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.design.pattern.v1.IntermediateMemberStrategy</OriginalElement>
+  <nodes>
+    <node x="0.0" y="112.5">com.hui.wang.design.pattern.v1.PrimaryMemberStrategy</node>
+    <node x="0.0" y="220.0">com.hui.wang.design.pattern.v1.Price</node>
+    <node x="121.25" y="0.0">com.hui.wang.design.pattern.v1.MemberStrategy</node>
+    <node x="0.0" y="384.0">com.hui.wang.design.pattern.v1.Client</node>
+    <node x="240.0" y="101.0">com.hui.wang.design.pattern.v1.IntermediateMemberStrategy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hui.wang.design.pattern.v1.IntermediateMemberStrategy" target="com.hui.wang.design.pattern.v1.MemberStrategy">
+      <point x="0.0" y="-37.0" />
+      <point x="352.5" y="76.0" />
+      <point x="286.25" y="76.0" />
+      <point x="55.0" y="25.5" />
+    </edge>
+    <edge source="com.hui.wang.design.pattern.v1.PrimaryMemberStrategy" target="com.hui.wang.design.pattern.v1.MemberStrategy">
+      <point x="0.0" y="-25.5" />
+      <point x="110.0" y="76.0" />
+      <point x="176.25" y="76.0" />
+      <point x="-55.0" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="112.5" y="54.0" />
+  <SelectedNodes>
+    <node>com.hui.wang.design.pattern.v1.PrimaryMemberStrategy</node>
+    <node>com.hui.wang.design.pattern.v1.Price</node>
+    <node>com.hui.wang.design.pattern.v1.MemberStrategy</node>
+    <node>com.hui.wang.design.pattern.v1.Client</node>
+    <node>com.hui.wang.design.pattern.v1.IntermediateMemberStrategy</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

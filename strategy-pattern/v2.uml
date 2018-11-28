@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.design.pattern.v2.Comparator</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.hui.wang.design.pattern.v2.Person</node>
+    <node x="0.0" y="207.0">com.hui.wang.design.pattern.v2.SortUtils</node>
+    <node x="279.0" y="0.0">com.hui.wang.design.pattern.v2.Comparator</node>
+    <node x="244.0" y="101.0">com.hui.wang.design.pattern.v2.HightComparator</node>
+    <node x="0.0" y="303.0">com.hui.wang.design.pattern.v2.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hui.wang.design.pattern.v2.HightComparator" target="com.hui.wang.design.pattern.v2.Comparator">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="60.5" y="14.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
