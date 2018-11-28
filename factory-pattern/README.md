@@ -11,7 +11,7 @@
 ##### 简单工厂模式
 简单工厂模式有称作静态工厂方法模式，使用工厂的静态方法创建对象，静态方法根据传值的不同创建不同的对象。
 
-`simplefactory`：实现了简单工厂模式
+`simplefactory包`：实现了简单工厂模式
 
 `Fruit`抽象水果类，`Apple`和`banana`为具体的水果类，`SimpleFacotry`为简单工厂，使用静态方法创建各种水果。
 具体类图看`simplefactory.uml`
@@ -19,8 +19,10 @@
 ##### 工厂方法模式
 工厂方法模式是定义一个创建产品对象的工厂接口，将实际创建工作推迟到子类当中。核心工厂不在负责产品的创建。
 
-`methodfactory`：实现了工厂方法模式
+`methodfactory包`：实现了工厂方法模式
 
 `Fruit`抽象水果类，`Apple`和`banana`为具体的水果类，`FruitFactory`为抽象工厂接口，`BananaFactory`和`AppleFactory`为具体工厂实现类
 具体类图如看`methodfactory.uml`
 
+##### 简单工厂方法简单的使用
+`example包`：使用简单工厂模式，实现了一个简单的计算器功能
