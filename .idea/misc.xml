@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/factory-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/strategy-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/decorator-pattern/pom.xml" />
       </list>
     </option>
   </component>
