@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.design.pattern.v2.Client</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.hui.wang.design.pattern.v2.Moveable</node>
+    <node x="0.0" y="197.0">com.hui.wang.design.pattern.v2.Client</node>
+    <node x="0.0" y="101.0">com.hui.wang.design.pattern.v2.Tank</node>
+    <node x="186.0" y="0.0">com.hui.wang.design.pattern.v2.TankProxy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hui.wang.design.pattern.v2.Tank" target="com.hui.wang.design.pattern.v2.Moveable">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="41.5" y="14.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
