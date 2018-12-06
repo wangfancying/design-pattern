@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="decorator-pattern" />
         <module name="factory-pattern" />
+        <module name="prototype-pattern" />
         <module name="proxy-pattern" />
         <module name="strategy-pattern" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="decorator-pattern" target="1.8" />
       <module name="factory-pattern" target="1.5" />
+      <module name="prototype-pattern" target="1.8" />
       <module name="proxy-pattern" target="1.8" />
       <module name="strategy-pattern" target="1.5" />
     </bytecodeTargetLevel>
