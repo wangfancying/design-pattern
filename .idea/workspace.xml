@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955092b7-21e4-45bc-9823-333133b49f6c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/clone/CloneUtileUse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v1/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v1/ConcretePrototypeA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v1/ConcretePrototypeB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v1/Prototype.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v2/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v2/ConcretePrototypeC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v2/ConcretePrototypeD.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v2/Prototype.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/v2/PrototypeManager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facade-pattern/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facade-pattern/facade-pattern.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/facade-pattern/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/template-method/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/template-method/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/template-method/template-method.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
@@ -29,6 +18,8 @@
     <ignored path="$PROJECT_DIR$/decorator-pattern/target/" />
     <ignored path="$PROJECT_DIR$/proxy-pattern/target/" />
     <ignored path="$PROJECT_DIR$/prototype-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/template-method/target/" />
+    <ignored path="$PROJECT_DIR$/facade-pattern/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v2/Comparator.java" />
-        <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v2/SortUtils.java" />
-        <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v1/PrimaryMemberStrategy.java" />
         <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v1/IntermediateMemberStrategy.java" />
         <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v1/Price.java" />
         <option value="$PROJECT_DIR$/strategy-pattern/src/main/java/com/hui/wang/design/pattern/v1/Client.java" />
@@ -121,6 +109,9 @@
         <option value="$PROJECT_DIR$/prototype-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/prototype-pattern/src/main/java/com/hui/wang/design/pattern/clone/CloneUtileUse.java" />
         <option value="$PROJECT_DIR$/prototype-pattern/README.md" />
+        <option value="$PROJECT_DIR$/template-method/pom.xml" />
+        <option value="$PROJECT_DIR$/template-method/README.md" />
+        <option value="$PROJECT_DIR$/facade-pattern/README.md" />
       </list>
     </option>
   </component>
@@ -158,16 +149,6 @@
             <path>
               <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy-pattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -418,7 +399,7 @@
       <option name="presentableId" value="Default" />
       <updated>1543299268697</updated>
       <workItem from="1543299271533" duration="1411000" />
-      <workItem from="1543302405064" duration="41185000" />
+      <workItem from="1543302405064" duration="42259000" />
     </task>
     <task id="LOCAL-00001" summary="factory example">
       <created>1543372210166</created>
@@ -452,7 +433,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42596000" />
+    <option name="totallyTimeSpent" value="43670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-389" width="2560" height="1440" extended-state="0" />
@@ -466,11 +447,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13913691" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13913691" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17261904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43973213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20492454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -507,41 +488,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/decorator-pattern/src/main/java/com/hui/wang/design/pattern/v1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator-pattern/src/main/java/com/hui/wang/design/pattern/v1/ConcreteDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator-pattern/src/main/java/com/hui/wang/design/pattern/v1/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator-pattern/src/main/java/com/hui/wang/design/pattern/v2/MyRequestMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#228#229#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/decorator-pattern/src/main/java/com/hui/wang/design/pattern/v1/FlyCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1074,16 +1020,8 @@
         <state relative-caret-position="189">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="105" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prototype-pattern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,6 +1030,52 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="783">
             <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-method/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-method/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype-pattern/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facade-pattern/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facade-pattern/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/decorator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/proxy-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/prototype-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/template-method/pom.xml" />
+        <option value="$PROJECT_DIR$/facade-pattern/pom.xml" />
       </list>
     </option>
   </component>
