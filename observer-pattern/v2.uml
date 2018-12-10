@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.observer.pattern.v2.ConcreteSubject</OriginalElement>
+  <nodes>
+    <node x="251.0" y="101.0">com.hui.wang.observer.pattern.v2.ConcreteObserver</node>
+    <node x="8.0" y="168.0">com.hui.wang.observer.pattern.v2.ConcreteSubject</node>
+    <node x="251.0" y="0.0">com.hui.wang.observer.pattern.v2.Observer</node>
+    <node x="0.0" y="0.0">com.hui.wang.observer.pattern.v2.Subject</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hui.wang.observer.pattern.v2.ConcreteObserver" target="com.hui.wang.observer.pattern.v2.Observer">
+      <point x="0.0" y="-37.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="com.hui.wang.observer.pattern.v2.ConcreteSubject" target="com.hui.wang.observer.pattern.v2.Subject">
+      <point x="0.0" y="-37.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="54.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
