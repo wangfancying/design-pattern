@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.state.pattern.v1.BookedState</OriginalElement>
+  <nodes>
+    <node x="224.66666666666674" y="-149.66666666666663">com.hui.wang.state.pattern.v1.BookedState</node>
+    <node x="-14.333333333333258" y="-149.66666666666663">com.hui.wang.state.pattern.v1.CheckInState</node>
+    <node x="-253.33333333333326" y="58.33333333333337">com.hui.wang.state.pattern.v1.Room</node>
+    <node x="-253.33333333333326" y="-149.66666666666663">com.hui.wang.state.pattern.v1.FreeTimeState</node>
+    <node x="-14.333333333333258" y="-316.66666666666663">com.hui.wang.state.pattern.v1.State</node>
+    <node x="10.666666666666742" y="58.33333333333337">com.hui.wang.state.pattern.v1.Client</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hui.wang.state.pattern.v1.BookedState" target="com.hui.wang.state.pattern.v1.State">
+      <point x="0.0" y="-81.5" />
+      <point x="334.16666666666674" y="-174.66666666666663" />
+      <point x="168.16666666666674" y="-174.66666666666663" />
+      <point x="73.0" y="58.5" />
+    </edge>
+    <edge source="com.hui.wang.state.pattern.v1.FreeTimeState" target="com.hui.wang.state.pattern.v1.State">
+      <point x="0.0" y="-81.5" />
+      <point x="-143.83333333333326" y="-174.66666666666663" />
+      <point x="22.166666666666742" y="-174.66666666666663" />
+      <point x="-73.0" y="58.5" />
+    </edge>
+    <edge source="com.hui.wang.state.pattern.v1.CheckInState" target="com.hui.wang.state.pattern.v1.State">
+      <point x="0.0" y="-81.5" />
+      <point x="0.0" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="63.5" y="54.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
