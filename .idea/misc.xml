@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/builder-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/observer-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/state-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter-patern/pom.xml" />
       </list>
     </option>
   </component>
