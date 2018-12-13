@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hui.wang.memento.pattern.Client</OriginalElement>
+  <nodes>
+    <node x="-403.0" y="95.0">com.hui.wang.memento.pattern.CareTaker</node>
+    <node x="-403.0" y="-46.0">com.hui.wang.memento.pattern.EmpMemento</node>
+    <node x="-403.0" y="-209.0">com.hui.wang.memento.pattern.Emp</node>
+    <node x="-135.0" y="95.0">com.hui.wang.memento.pattern.Client</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="41.5" y="14.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
