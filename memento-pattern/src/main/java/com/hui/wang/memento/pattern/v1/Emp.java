@@ -1,4 +1,4 @@
-package com.hui.wang.memento.pattern;
+package com.hui.wang.memento.pattern.v1;
 
 /**
  * 发起者角色

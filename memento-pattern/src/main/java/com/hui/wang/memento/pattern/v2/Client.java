@@ -1,4 +1,4 @@
-package com.hui.wang.memento.pattern;
+package com.hui.wang.memento.pattern.v2;
 
 /**
  *
@@ -14,7 +14,7 @@ public class Client {
 
 		//创建对象
 		Emp emp = new Emp();
-		emp.setAge("11");
+		emp.setAge("14");
 		emp.setName("yes");
 		System.out.println("对象："+emp.getName()+"----"+emp.getAge());
 

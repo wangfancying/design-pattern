@@ -1,4 +1,4 @@
-package com.hui.wang.memento.pattern;
+package com.hui.wang.memento.pattern.v2;
 
 /**
  * 管理者角色
@@ -9,13 +9,13 @@ package com.hui.wang.memento.pattern;
  */
 public class CareTaker {
 
-	private EmpMemento empMemento;
+	private Memento memento;
 
-	public EmpMemento getEmpMemento() {
-		return empMemento;
+	public Memento getEmpMemento() {
+		return memento;
 	}
 
-	public void setEmpMemento(EmpMemento empMemento) {
-		this.empMemento = empMemento;
+	public void setEmpMemento(Memento memento) {
+		this.memento = memento;
 	}
 }
