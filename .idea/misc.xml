@@ -15,6 +15,12 @@
         <option value="$PROJECT_DIR$/state-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/adapter-patern/pom.xml" />
         <option value="$PROJECT_DIR$/memento-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/compont-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/iterator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/singleton-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/command-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-pattern/pom.xml" />
       </list>
     </option>
   </component>
