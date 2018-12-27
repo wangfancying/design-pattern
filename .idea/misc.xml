@@ -21,6 +21,10 @@
         <option value="$PROJECT_DIR$/bridge-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/command-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/filter-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/flyweight-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/interpreter-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/visitor-pattern/pom.xml" />
       </list>
     </option>
   </component>
